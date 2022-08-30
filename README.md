@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aayush Curious</h1>
 <h3 align="center">Blockchain Developer||Blockchain Lead</h3>
 
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/5477893-Blockchain-DPOS-animation/attachments/10890667?mode=media">
+<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1SdPOZR6MXBtC1aze77aWsbNp8AHfjOQC/view?usp=sharing">
 
 - 🌱 I’m currently learning **Pug and Rust**
 
