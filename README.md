@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1SdPOZR6MXBtC1aze77aWsbNp8AHfjOQC/view?usp=sharing">
 
-- 🌱 I’m currently learning **Pug and Rust**
+- 🌱 I work on **Solidity,Javascript and and Rust**
 
 - 👨‍💻 All of my projects are available at [https://aayushcurious.github.io/Profile/](https://aayushcurious.github.io/Profile/)
 
