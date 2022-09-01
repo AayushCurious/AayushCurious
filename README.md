@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **aayushacharya194@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NedQv1Q7Ka4SBQFpwaPj1J8u3HAJhFP9/view?usp=sharing](https://drive.google.com/file/d/1NedQv1Q7Ka4SBQFpwaPj1J8u3HAJhFP9/view?usp=sharing)
+- 📄 Know about my experiences [Profile](https://drive.google.com/file/d/1NedQv1Q7Ka4SBQFpwaPj1J8u3HAJhFP9/view?usp=sharing)
 
 - ⚡ Fun fact **Been the global finalist in world's largest Hackathon by NASA**
 
