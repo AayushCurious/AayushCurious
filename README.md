@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1SdPOZR6MXBtC1aze77aWsbNp8AHfjOQC/view?usp=sharing">
 
-- 🌱 I work on **Solidity,Javascript and and Rust**
+- 🌱 I work on **Solidity,Javascript,Python and Rust**
 
 - 👨‍💻 All of my projects are available at [https://aayushcurious.github.io/Profile/](https://aayushcurious.github.io/Profile/)
 
@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1NedQv1Q7Ka4SBQFpwaPj1J8u3HAJhFP9/view?usp=sharing](https://drive.google.com/file/d/1NedQv1Q7Ka4SBQFpwaPj1J8u3HAJhFP9/view?usp=sharing)
 
-- ⚡ Fun fact **I**
+- ⚡ Fun fact **Been the global finalist in world's largest Hackathon by NASA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
