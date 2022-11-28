@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **Been the global finalist in world's largest Hackathon by NASA**
 
-<h3 align="left">Connect with me:<a href="https://linkedin.com/in/aayushcurious"></h3>
+<h3 align="left">Connect with me:</h3><a href="https://linkedin.com/in/aayushcurious"></a>
 <p align="left">
 </p>
 
