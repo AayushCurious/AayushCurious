@@ -14,8 +14,6 @@
 - 📄 Know about my experiences [Profile](https://drive.google.com/file/d/1NedQv1Q7Ka4SBQFpwaPj1J8u3HAJhFP9/view?usp=sharing)
 
 - ⚡ Fun fact **Been the global finalist in world's largest Hackathon by NASA**
-
-<h3 align="left">Connect with me:</h3><a href="https://linkedin.com/in/aayushcurious"></a>
 <p align="left">
 </p>
 
