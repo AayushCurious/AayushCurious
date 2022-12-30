@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aayush Curious</h1>
 <h3 align="center">Blockchain Developer||Blockchain Lead</h3>
 
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1SdPOZR6MXBtC1aze77aWsbNp8AHfjOQC/view?usp=sharing">
+<img align="right" alt="Coding" width="400" src="https://unsplash.com/photos/klMii3cR9iI">
 
 - 🌱 I work on **Solidity,Javascript,Python and Rust**
 
