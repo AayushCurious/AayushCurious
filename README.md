@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://unsplash.com/photos/klMii3cR9iI">
 
-- 🌱 I work on **Solidity,Javascript,Python and Rust**
+- 🌱 I work on **Solidity and Javascript. Learning Rust And Python**
 
 - 👨‍💻 All of my projects are available at [https://aayushcurious.github.io/Profile/](https://aayushcurious.github.io/Profile/)
 
