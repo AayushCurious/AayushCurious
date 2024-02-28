@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Blockchain,Database,Data Structures**
 
-- 📫 How to reach me **aayush@tackoom.com**
+- 📫 How to reach me **curious@tackoom.xyz**
 
 - 📄 Know about my experiences [Profile](https://drive.google.com/file/d/1NedQv1Q7Ka4SBQFpwaPj1J8u3HAJhFP9/view?usp=sharing)
 
