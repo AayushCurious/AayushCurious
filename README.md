@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.mit.edu" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/MIT_logo.svg" alt="MIT Logo" width="120" height="60"/>
+    <img src="https://commons.wikimedia.org/wiki/File:MIT_logo_2003-2023.svg" alt="MIT Logo" width="120" height="60"/>
   </a>
 </p>
 
