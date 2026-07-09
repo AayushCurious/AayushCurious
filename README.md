@@ -58,7 +58,6 @@ As a founder, I build with a systems-first mindset—prioritizing robust archite
 ### 💬 Let's Connect & Collaborate
 *   **Ask me about:** Data Infrastructure (SSIS/SSAS), Web3RTC, Advanced DSA, and Statistical Modeling.
 *   **Phone:** [+1 (347) 497-8661](tel:+13474978661)
-*   **Email:** [aayush@tackoom.com](mailto:aayush@tackoom.com)
 *   **Portfolio:** [aayushcurious.framer.website](https://aayushcurious.framer.website)
 *   **Resume:** [View My Technical CV](https://drive.google.com/file/d/1NedQv1Q7Ka4SBQFpwaPj1J8u3HAJhFP9/view?usp=sharing)
 
