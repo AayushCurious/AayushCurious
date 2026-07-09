@@ -56,5 +56,5 @@ As a founder, I build with a systems-first mindset—prioritizing robust archite
 *   **Resume:** [View My Technical CV](https://drive.google.com/file/d/1NedQv1Q7Ka4SBQFpwaPj1J8u3HAJhFP9/view?usp=sharing)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AayushCurious&show_icons=true&theme=radical&count_private=true&hide_shadow=true" alt="Aayush's GitHub Stats" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=AayushCurious&show_icons=true&theme=radical&count_private=true" alt="Aayush's GitHub Stats" />
 </p>
