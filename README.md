@@ -55,6 +55,11 @@ As a founder, I build with a systems-first mindset—prioritizing robust archite
 *   **Portfolio:** [aayushcurious.framer.website](https://aayushcurious.framer.website)
 *   **Resume:** [View My Technical CV](https://drive.google.com/file/d/1NedQv1Q7Ka4SBQFpwaPj1J8u3HAJhFP9/view?usp=sharing)
 
-<p align="center">
-  <img src="https://ssr-contributions-svg.vercel.app/_/AayushCurious.svg?chart=birdsEye&weeks=50&theme=dark" alt="Aayush's Contribution Graph" size="large" />
+---
+
+### 📊 Engineering Metrics
+<p align="left">
+  <img src="https://img.shields.io/github/followers/AayushCurious?label=Followers&style=for-the-badge&color=211F1F&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/AayushCurious?label=Total%20Stars&style=for-the-badge&color=211F1F&logo=github" alt="Stars" />
+  <img src="https://img.shields.io/github/repo-size/AayushCurious/AayushCurious?label=Profile%20Size&style=for-the-badge&color=211F1F" alt="Repo Size" />
 </p>
