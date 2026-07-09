@@ -1,5 +1,11 @@
+<p align="center">
+  <a href="https://www.mit.edu" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/MIT_logo.svg" alt="MIT Logo" width="120" height="60"/>
+  </a>
+</p>
+
 <h1 align="center">Hi 👋, I'm Aayush Curious</h1>
-<h3 align="center">Founder | Data Engineer | ML Research Engineer</h3>
+<h3 align="center">Founder | Data Engineer | ML Research Cadet</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=450&lines=Data+Engineer+%2B+ML+Cadet;Studying+at+MIT;Founder+%40+Tackoom;National+ICT+Award+Winner+2025" alt="Typing SVG" />
@@ -8,11 +14,12 @@
 ---
 
 ### 🚀 About Me
-I am a builder, founder, and research-focused engineer operating at the intersection of **scalable data infrastructure, low-latency backend systems, and applied machine learning**. Currently studying at **MIT**, I couple rigorous theoretical knowledge in statistics and data science with a proven track record of shipping production-grade systems. 
+- 🎓 **Education:** Pursuing advanced tracks in **Data Science and Statistics at MIT**.
+
+I am a builder, founder, and research-focused engineer operating at the intersection of **scalable data infrastructure, low-latency backend systems, and applied machine learning**. I couple rigorous theoretical knowledge in statistics and data science with a proven track record of shipping production-grade systems. 
 
 As a founder, I build with a systems-first mindset—prioritizing robust architecture, algorithm optimization, and data integrity.
 
-- 🎓 **Education:** Pursuing advanced tracks in Data Science and Statistics at **MIT**.
 - 🏆 **Key Accolades:** Won **NASA International SpaceApps** as a Global Finalist & Winner of the **National ICT Award 2025**.
 - 🛠️ **Core Focus:** High-throughput data pipelines, foundational ML research implementation, and low-latency real-time communication architectures.
 
