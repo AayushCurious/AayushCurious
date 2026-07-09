@@ -2,7 +2,7 @@
 <h3 align="center">Founder | Data Engineer | ML Research Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Data+Engineer+%2B+ML+Cadet;MIT+MicroMasters+in+DSS;Founder+%40+Tackoom;NASA+SpaceApps+Global+Finalist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Data+Engineer+%2B+ML+Cadet;MIT+Data+Science+Statistics+;Founder+%40+Tackoom;NASA+SpaceApps+Global+Finalist" alt="Typing SVG" />
 </p>
 
 ---
