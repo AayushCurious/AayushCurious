@@ -56,7 +56,5 @@ As a founder, I build with a systems-first mindset—prioritizing robust archite
 *   **Resume:** [View My Technical CV](https://drive.google.com/file/d/1NedQv1Q7Ka4SBQFpwaPj1J8u3HAJhFP9/view?usp=sharing)
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AayushCurious&theme=radical&column=4&margin-w=15&margin-h=15" alt="Aayush's GitHub Trophies" />
-  </a>
+  <img src="https://ssr-contributions-svg.vercel.app/_/AayushCurious.svg?chart=birdsEye&weeks=50&theme=dark" alt="Aayush's Contribution Graph" size="large" />
 </p>
