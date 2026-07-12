@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://mit.edu" target="_blank" rel="noreferrer">
-    <img src="https://wikimedia.org" alt="MIT Logo" width="120" height="60"/>
+  <a href="https://www.mit.edu" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/MIT_logo_2003-2023.svg" alt="MIT Logo" width="120" height="60"/>
   </a>
 </p>
 
@@ -8,11 +8,7 @@
 <h3 align="center">Founder | Data Engineer | ML Research Cadet</h3>
 
 <p align="center">
-  <img src="https://demolab.com" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://shields.io" alt="HIPAA Compliant" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=450&lines=Data+Engineer+%2B+ML+Cadet;Studying+at+MIT;Founder+%40+Tackoom;National+ICT+Award+Winner+2025" alt="Typing SVG" />
 </p>
 
 ---
@@ -33,10 +29,10 @@ As a founder, I build with a systems-first mindset—prioritizing robust archite
 
 | Category | Technologies & Domains |
 | :--- | :--- |
-| **Core Languages** | Python, TypeScript, Rust, SQL, Solidity |
-| **Data Engineering & Analytics** | Microsoft SSIS, SSAS, ETL/ELT Pipelines, Platforms & Infrastructure |
-| **Backend & Infrastructure** | Node.js, AWS, Web3RTC, Distributed Databases, Scalable System Design |
-| **Databases & Cloud** | AWS, GCP, PostgreSQL, MongoDB, Firebase |
+| **Core Languages** | Python, Rust, SQL, Solidity |
+| **Data Engineering & Analytics** | Microsoft SSIS, SSAS, ETL/ELT Pipelines, Exploratory Data Analysis (EDA) |
+| **Backend & Infrastructure** | Node.js, Web3RTC, Distributed Databases, Scalable System Design |
+| **Databases & Cloud** | GCP, PostgreSQL, MongoDB, Firebase |
 | **Theory & Applied Sciences** | Advanced Data Structures & Algorithms (DSA), Mathematical Statistics, ML Architecture |
 
 ---
@@ -44,57 +40,32 @@ As a founder, I build with a systems-first mindset—prioritizing robust archite
 ### 📊 Tech Stack Highlights
 <p align="left">
   <!-- Python -->
-  <a href="https://python.org" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" alt="python" width="40" height="40"/></a>
-  <!-- TypeScript -->
-  <a href="https://typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" alt="typescript" width="40" height="40"/></a>
-  <!-- Rust -->
-  <a href="https://rust-lang.org" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" alt="rust" width="40" height="40"/></a>
-  <!-- Solidity -->
-  <a href="https://soliditylang.org" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" alt="solidity" width="40" height="40"/></a>
-  <!-- Node JS -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" alt="nodejs" width="40" height="40"/></a>
-  <!-- AWS -->
-  <a href="https://amazon.com" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" alt="aws" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <!-- GCP -->
-  <a href="https://google.com" target="_blank" rel="noreferrer"><img src="https://vectorlogo.zone" alt="gcp" width="40" height="40"/></a>
-  <!-- PostgreSQL -->
-  <a href="https://postgresql.org" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" alt="postgresql" width="40" height="40"/></a>
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
+  <!-- Node JS -->
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
   <!-- MongoDB -->
-  <a href="https://mongodb.com" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" alt="mongodb" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
   <!-- Firebase -->
-  <a href="https://google.com" target="_blank" rel="noreferrer"><img src="https://vectorlogo.zone" alt="firebase" width="40" height="40"/></a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
   <!-- OpenCV -->
-  <a href="https://opencv.org" target="_blank" rel="noreferrer"><img src="https://vectorlogo.zone" alt="opencv" width="40" height="40"/></a>
-</p>
-
----
-
-### 📊 GitHub Dynamics & Analytics
-<p align="center">
-  <img src="https://vercel.app" alt="Aayush's GitHub Stats" width="48%" />
-  <img src="https://vercel.app" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://herokuapp.com" alt="GitHub Streak" width="98%"/>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
 </p>
 
 ---
 
 ### 💬 Let's Connect & Collaborate
-<p align="left">
-  <a href="https://framer.website" target="_blank"><img src="https://shields.io" alt="Portfolio" /></a>
-  <a href="https://google.com" target="_blank"><img src="https://shields.io📝-blue?style=for-the-badge" alt="Resume" /></a>
-  <a href="tel:+13474978661"><img src="https://shields.io📞%20+1%20(347)%20497--8661-green?style=for-the-badge" alt="Phone" /></a>
-</p>
-
 *   **Ask me about:** Data Infrastructure (SSIS/SSAS), Web3RTC, Advanced DSA, and Statistical Modeling.
+*   **Phone:** [+1 (347) 497-8661](tel:+13474978661)
+*   **Portfolio:** [aayushcurious.framer.website](https://aayushcurious.framer.website)
+*   **Resume:** [View My Technical CV](https://drive.google.com/file/d/1NedQv1Q7Ka4SBQFpwaPj1J8u3HAJhFP9/view?usp=sharing)
 
 ---
 
-### 📈 Engineering Metrics
+### 📊 Engineering Metrics
 <p align="left">
-  <img src="https://shields.io" alt="Followers" />
-  <img src="https://shields.io" alt="Stars" />
-  <img src="https://shields.io" alt="Repo Size" />
+  <img src="https://img.shields.io/github/followers/AayushCurious?label=Followers&style=for-the-badge&color=211F1F&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/AayushCurious?label=Total%20Stars&style=for-the-badge&color=211F1F&logo=github" alt="Stars" />
+  <img src="https://img.shields.io/github/repo-size/AayushCurious/AayushCurious?label=Profile%20Size&style=for-the-badge&color=211F1F" alt="Repo Size" />
 </p>
