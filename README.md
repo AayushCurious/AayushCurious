@@ -52,7 +52,7 @@ As a founder, I build with a systems-first mindset—prioritizing robust archite
   <!-- OpenCV -->
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
   <!-- PD5 / p5.js -->
-  <a href="https://p5js.org" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" alt="p5js" width="40" height="40"/></a>
+  <a href="https://images.seeklogo.com/logo-png/44/1/p5-js-logo-png_seeklogo-441833.png" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" alt="p5js" width="40" height="40"/></a>
 </p>
 
 ---
