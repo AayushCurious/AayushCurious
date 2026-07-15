@@ -29,7 +29,7 @@ As a founder, I build with a systems-first mindset—prioritizing robust archite
 
 | Category | Technologies & Domains |
 | :--- | :--- |
-| **Core Languages** | Python, Rust, SQL, Solidity |
+| **Core Languages** | Python, Rust, SQL, Solidity,PD5 |
 | **Data Engineering & Analytics** | Microsoft SSIS, SSAS, ETL/ELT Pipelines, Exploratory Data Analysis (EDA) |
 | **Backend & Infrastructure** | Node.js, Web3RTC, Distributed Databases, Scalable System Design |
 | **Databases & Cloud** | GCP, PostgreSQL, MongoDB, Firebase |
