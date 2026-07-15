@@ -29,7 +29,7 @@ As a founder, I build with a systems-first mindset—prioritizing robust archite
 
 | Category | Technologies & Domains |
 | :--- | :--- |
-| **Core Languages** | Python, Rust, SQL, Solidity,PD5 |
+| **Core Languages** | Python, Rust, SQL, Solidity, PD5 |
 | **Data Engineering & Analytics** | Microsoft SSIS, SSAS, ETL/ELT Pipelines, Exploratory Data Analysis (EDA) |
 | **Backend & Infrastructure** | Node.js, Web3RTC, Distributed Databases, Scalable System Design |
 | **Databases & Cloud** | GCP, PostgreSQL, MongoDB, Firebase |
@@ -51,6 +51,8 @@ As a founder, I build with a systems-first mindset—prioritizing robust archite
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
   <!-- OpenCV -->
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
+  <!-- PD5 / p5.js -->
+  <a href="https://p5js.org" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" alt="p5js" width="40" height="40"/></a>
 </p>
 
 ---
