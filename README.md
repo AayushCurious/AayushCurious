@@ -45,6 +45,8 @@ As a founder, I build with a systems-first mindset—prioritizing robust archite
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
   <!-- Node JS -->
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+  <!-- WebRTC -->
+  <a href="https://webrtc.org" target="_blank" rel="noreferrer"><img src="https://vectorlogo.zone" alt="webrtc" width="40" height="40"/></a>
   <!-- MongoDB -->
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
   <!-- Firebase -->
