@@ -63,8 +63,7 @@ As a founder, I build with a systems-first mindset—prioritizing robust archite
 *   **Ask me about:** Data Infrastructure (SSIS/SSAS), Web3RTC, Advanced DSA, and Statistical Modeling.
 *   **Phone:** [+1 (347) 497-8661](tel:+13474978661)
 *   **Portfolio:** [aayushcurious.framer.website](https://aayushcurious.framer.website)
-*   **Resume:** [View My Technical CV](https://drive.google.com/file/d/1NedQv1Q7Ka4SBQFpwaPj1J8u3HAJhFP9/view?usp=sharing)
-
+*   **Resume:** [View My Technical CV](https://github.com/AayushCurious/AayushCurious/blob/main/Founder%20Aayush%20Acharya%20CV.pdf)
 ---
 
 ### 📊 Engineering Metrics
